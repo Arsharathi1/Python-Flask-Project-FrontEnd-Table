@@ -1,0 +1,19 @@
+      td, p, input {
+            font:10px Verdana;
+
+            background-image: linear-gradient(to bottom, rgb(107, 126, 191) , rgb(181, 169, 230));
+}
+        
+        table, th, td 
+        {
+            border: solid 1px #DDD;
+            border-collapse: collapse;
+            padding: 2px 3px;
+            text-align: center;
+        }
+        th {
+            font-weight:bold;
+            background-color: rgb(133, 36, 224);
+        }
+        
+
